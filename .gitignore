@@ -1,0 +1,9 @@
+/target/
+**/target/
+*.rs.bk
+/wasm_client/pkg/
+/wasm_client/target/
+.vscode/
+.idea/
+.DS_Store
+*.log
